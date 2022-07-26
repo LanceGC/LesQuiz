@@ -1,7 +1,0 @@
-{
-  "name": "LesQuiz",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
